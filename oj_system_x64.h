@@ -1,0 +1,10 @@
+#define EAX RAX
+#define EBX RBX
+#define ECX RCX
+#define EDX RDX
+#define ORIG_EAX ORIG_RAX
+#define eax rax
+#define ebx rbx
+#define ecx rcx
+#define edx rdx
+#define orig_eax orig_rax
